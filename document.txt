@@ -1,0 +1,3 @@
+npm link
+npm install -g /home/andresbadillo/PersonalProjects/cursos/curso_npm/ab-random-str-msg
+ab-random-str-msg
